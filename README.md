@@ -6,7 +6,8 @@ Acest proiect reprezintă o bază de date complet funcțională pentru gestiunea
 
 ## 📦 Conținut
 
-database_project/
+library-database
+/
 ├── README.md # Acest fișier
 ├── library_export.sql # Dump complet cu toate obiectele (tabele, secvențe, funcții, proceduri)
 ├── triggere.sql # Declarațiile de CREATE TRIGGER
