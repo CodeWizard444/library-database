@@ -41,8 +41,8 @@ Include entități precum:
 
 1. Deschide terminalul și conectează-te la PostgreSQL:
 ```bash
-psql -U postgres -d nume_baza
-\i baza_export.sql
+psql -U postgres -d library_db
+\i library_export.sql
 
 🔧 Funcții și proceduri utile
 Exemple:
