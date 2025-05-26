@@ -4,15 +4,16 @@ Acest proiect reprezintă o bază de date complet funcțională pentru gestiunea
 
 ---
 
-## 📦 Conținut
+## 🗃️ Structura Proiectului
 
-library-database
-/
-├── README.md # Acest fișier
-├── library_export.sql # Dump complet cu toate obiectele (tabele, secvențe, funcții, proceduri)
-├── triggere.sql # Declarațiile de CREATE TRIGGER
-├── indexuri.sql # Indexuri create
-└── schema_diagram.png # Diagrama bazei de date
+| Fișier                  | Descriere                                                                 |
+|--------------------------|---------------------------------------------------------------------------|
+| `library_export.sql`     | Dump complet SQL cu toate obiectele bazei de date (tabele, secvențe etc.) |
+| `triggere.sql`           | Script cu declarații `CREATE TRIGGER`                                     |
+| `indexuri.sql`           | Script cu indexuri SQL pentru optimizarea interogărilor                   |
+| `schema_diagram.png`     | Diagramă relațională a bazei de date                                      |
+| `README.md`              | Documentația generală a proiectului                                       |
+
 
 ---
 
