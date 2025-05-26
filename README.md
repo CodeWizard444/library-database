@@ -65,7 +65,5 @@ Exemple:
 -Indexuri pe coloane frecvent căutate (ex: id_client, isbn)
 -Optimizări pentru JOIN și WHERE
 
-📷 Diagramă relațională
-
 📝 Autor
 Lacatus Eduard – proiect, PostgreSQL
